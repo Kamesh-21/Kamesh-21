@@ -1,7 +1,7 @@
  ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hii 👋, I'm Kamesh Sahu</h1>
 <h3  align="center">Data Analyst 📊 | Eager to unlock insights!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamesh-21&label=Profile%20views&color=0e75b6&style=flat" alt="Kamesh-21" /> </p>
 
