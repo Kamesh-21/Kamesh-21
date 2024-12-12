@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kamex4442@gmail.com**
 
-- ⚡ Fun fact **I enjoy fixing errors in data! 🔍**
+- ⚡  scroll down for projects 🔍
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
